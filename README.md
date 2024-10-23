@@ -51,4 +51,5 @@ To use the code in this repository, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/dsa-java.git
+   https://github.com/lokesh-kumaravel/DSA
+   
