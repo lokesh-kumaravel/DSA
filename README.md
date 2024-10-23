@@ -9,9 +9,6 @@ Welcome to the Data Structures and Algorithms repository! This project contains 
 - [Data Structures](#data-structures)
 - [Algorithms](#algorithms)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
