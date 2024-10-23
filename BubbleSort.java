@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main
+public class BubbleSort
 {
     public static void main(String[] args)
     {

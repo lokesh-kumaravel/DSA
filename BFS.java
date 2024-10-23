@@ -1,4 +1,3 @@
-package DSA;
 import java.util.*;
 public class BFS {
     public static ArrayList<ArrayList<Integer>> list = new ArrayList<>();

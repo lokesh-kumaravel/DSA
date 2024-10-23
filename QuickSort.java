@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main
+public class QuickSort
 {
     public static void main(String[] args)
     {
