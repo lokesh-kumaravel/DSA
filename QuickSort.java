@@ -12,6 +12,7 @@ public class QuickSort
             a[i] = s.nextInt();
         }
         sort(a,0,n-1);
+        s.close();
     }
     public static void sort(int[] arr,int low,int high)
     {
